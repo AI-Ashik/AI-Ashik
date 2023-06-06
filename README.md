@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MD:Ariful Islam Ashik</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh.</h3>   
+<h3 align="center">A passionate MERN developer from Bangladesh. (Still Learning☺)</h3>   
 <br/>
 
 <img src="images/gif.gif" width="100%" align="center">
