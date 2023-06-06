@@ -4,12 +4,6 @@
 <h3 align="center">A passionate MERN developer from Bangladesh. (Still Learning☺)</h3>   
 <br/>
 
-
-
-<br>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ai-ashik" alt="ai-ashik" /></a> </p>
-
-
 - 🔭 I’m currently working on **A React Todo Project**
 
 - 🌱 I’m currently learning **TailwindCSS & React JS**
