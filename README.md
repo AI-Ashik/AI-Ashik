@@ -1,8 +1,10 @@
+<img src="images/gif.gif" width="100%" align="center">
+
 <h1 align="center">Hi 👋, I'm MD:Ariful Islam Ashik</h1>
 <h3 align="center">A passionate MERN developer from Bangladesh. (Still Learning☺)</h3>   
 <br/>
 
-<img src="images/gif.gif" width="100%" align="center">
+
 
 <br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ai-ashik" alt="ai-ashik" /></a> </p>
