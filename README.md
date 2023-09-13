@@ -4,9 +4,9 @@
 <h3 align="center">A passionate MERN developer from Bangladesh. (Still Learning☺)</h3>   
 <br/>
 
-- 🔭 I’m currently working on **A React Todo Project**
+- 🔭 I’m currently working on **A E-commerce Project**
 
-- 🌱 I’m currently learning **TailwindCSS & React JS**
+- 🌱 I’m currently learning **Next Js**
 
 - 👯 I’m looking to collaborate on **Javascript Project**
 
