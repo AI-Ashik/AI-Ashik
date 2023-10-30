@@ -4,9 +4,9 @@
 <h3 align="center">A passionate MERN developer from Bangladesh. (Still Learning☺)</h3>   
 <br/>
 
-- 🔭 I’m currently working on **A E-commerce Project**
+- 🔭 I’m currently working on **Next js Project**
 
-- 🌱 I’m currently learning **Next Js**
+- 🌱 I’m currently learning **Node js and rewinding reactJs**
 
 - 👯 I’m looking to collaborate on **Javascript Project**
 
@@ -16,7 +16,7 @@
 
 - 📝 I regularly write articles on [Blank](Blank)
 
-- 💬 Ask me about **HTML5,CSS3,JavaScript,Boostrap5,Git and Github**
+- 💬 Ask me about **HTML5,CSS3,JavaScript,Boostrap5,Tailwindcss,Typescript,ReactJs,NextJs,Git and Github**
 
 - 📫 How to reach me **arifulislamashik07@gmail.com**
 
