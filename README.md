@@ -1,12 +1,12 @@
 <img src="images/gif.gif" width="100%" align="center">
 
-<h1 align="center">Hi 👋, I'm MD:Ariful Islam Ashik</h1>
+<h1 align="center">Hi 👋, I'm MD: Ariful Islam Ashik</h1>
 <h3 align="center">A passionate MERN developer from Bangladesh. (Still Learning☺)</h3>   
 <br/>
 
 - 🔭 I’m currently working on **Node js Project**
 
-- 🌱 I’m currently learning **Node js and rewinding reactJs**
+- 🌱 I’m currently learning **Backend and rewinding reactJs**
 
 - 👯 I’m looking to collaborate on **Javascript Project**
 
@@ -16,7 +16,7 @@
 
 - 📝 I regularly write articles on [Blank](Blank)
 
-- 💬 Ask me about **HTML5,CSS3,JavaScript,Boostrap5,Tailwindcss,Typescript,ReactJs,NextJs,Redux,Tanstack Query Git,and Github**
+- 💬 Ask me about **HTML5, CSS3, JavaScript, Boostrap5, Tailwindcss, Typescript, ReactJs, NextJs, Redux, Tanstack Query, Git and Github**
 
 - 📫 How to reach me **arifulislamashik07@gmail.com**
 
